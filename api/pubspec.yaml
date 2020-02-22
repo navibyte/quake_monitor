@@ -1,0 +1,12 @@
+name: api
+description: A gRPC client for accessing earthquake data from the quake gRPC service.
+version: 0.1.0
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  fixnum: ^0.10.11 
+  protobuf: ^1.0.1
+  grpc: ^2.1.3  
+

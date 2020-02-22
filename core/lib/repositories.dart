@@ -1,0 +1,1 @@
+export 'src/repositories/earthquake_repository.dart';
